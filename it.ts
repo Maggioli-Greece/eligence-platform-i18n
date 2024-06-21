@@ -662,7 +662,7 @@ export const locale = {
       SUBSCRIPTION_DETAILS: 'Subscription Details',
       SUBSCRIPTION_DETAILS_DESCRIPTION: 'Setup Subscription Details',
       NOTES: 'Note',
-      NOTES_DESCRIPTION: 'Add notes',
+      NOTES_DESCRIPTION: 'Aggiungi Informazioni!',
       OVERVIEW_DESCRIPTION: 'Have a last look',
       GROUP_INFO: 'Info sul gruppo',
       BENEFICIARIES: 'Utenti',
