@@ -161,7 +161,7 @@ export const locale = {
       REMOVE_HEALTH_PROFESSIONAL:
         'Sei sicuro di voler rimuovere questo professionista della salute da questo utente?',
       PROCEED_TO_CREATE_SESSION_STEP_3:
-        "Sono nell'ordine in cui si vuole che appaiano nel utente? Avete selezionato il livello di difficoltà desiderato per ogni gioco?",
+        "Sono nell'ordine in cui si vuole che appaiano all' utente? Avete selezionato il livello di difficoltà desiderato per ogni gioco?",
       CANCEL: 'Are you sure you want to cancel this {{name}}?',
       DELETE_QUESTIONNAIRE_SECTION:
         'Eliminando una sezione si eliminano anche tutte le domande di questa sezione. Sei sicuro di voler continuare?',
