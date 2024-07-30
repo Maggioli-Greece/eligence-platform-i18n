@@ -575,7 +575,7 @@ export const locale = {
     FOOTER: {
       PRIVACY_POLICY: 'Privacy Policy',
       TERMS_AND_CONDITIONS: 'Terms and Conditions',
-      COOKIE_POLICY: 'Cookie Policy',
+      COOKIE_POLICY: 'Cookies Policy',
       CONTACT: 'Contact',
     },
     GAME_DIFFICULTY: {
