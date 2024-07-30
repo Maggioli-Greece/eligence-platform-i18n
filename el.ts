@@ -583,7 +583,7 @@ export const locale = {
     FOOTER: {
       PRIVACY_POLICY: 'Πολιτική Απορρήτου',
       TERMS_AND_CONDITIONS: 'Όροι και Προϋποθέσεις',
-      COOKIE_POLICY: 'Πολιτική Cookie',
+      COOKIE_POLICY: 'Πολιτική Cookies',
       CONTACT: 'Επικοινωνία',
       PURCHASE: 'Αγορά',
     },
